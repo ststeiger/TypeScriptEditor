@@ -1039,6 +1039,7 @@
     <Content Include="scripts\lib\ace\snippets\_all_modes.snippets" />
     <Content Include="scripts\tsconfig.json" />
     <Content Include="scripts\tsd.json" />
+    <None Include="fileserver.go" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
