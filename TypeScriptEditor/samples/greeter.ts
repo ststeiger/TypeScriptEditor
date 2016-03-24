@@ -17,3 +17,16 @@ button.onclick = function() {
 }
 
 document.body.appendChild(button)
+
+document.body.appendChild(button)
+document.body.appendChild(document.createElement("BR"));
+
+
+function WriteLine(out)
+{
+    document.body.appendChild(document.createTextNode(out));
+    document.body.appendChild(document.createElement("BR"));
+}
+
+WriteLine("hello");
+WriteLine( JSON.stringify(greeter) );

@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include=".gitignore" />
+    <Content Include="images\forkme_right_red_aa0000.png" />
     <Content Include="index.html" />
     <Content Include="samples\animal.ts" />
     <Content Include="samples\greeter.ts" />
@@ -758,6 +759,7 @@
     <Content Include="scripts\main.ts" />
     <Content Include="scripts\typings\ace\ace.d.ts" />
     <Content Include="scripts\typings\tsd.d.ts" />
+    <Content Include="scripts\foo.js" />
     <Content Include="scripts\utils.js" />
     <Content Include="scripts\utils.ts" />
     <Content Include="stylesheets\bootstrap.min.css" />
