@@ -52,6 +52,7 @@
     <Content Include=".gitignore" />
     <Content Include="images\forkme_right_red_aa0000.png" />
     <Content Include="index.html" />
+    <Content Include="samples\URI.ts" />
     <Content Include="samples\animal.ts" />
     <Content Include="samples\greeter.ts" />
     <Content Include="samples\raytracer.ts" />
